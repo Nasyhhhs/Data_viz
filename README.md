@@ -1,2 +1,3 @@
-# Data_viz
+# Data_vizualizations
 Examples of my data visualization projects
+
